@@ -1,0 +1,110 @@
+{
+  "period": {
+    "start": "2026-07-01",
+    "end_exclusive": "2026-10-01"
+  },
+  "usd_rates": {
+    "USD": "1",
+    "SGD": "0.77",
+    "INR": "0.012"
+  },
+  "counts": {
+    "raw_rows": 22,
+    "duplicate_reports": 2,
+    "out_of_period_events": 2,
+    "included_events": 18
+  },
+  "sector_totals": [
+    {
+      "sector": "Fintech",
+      "amount_usd": "277670000",
+      "event_count": 4
+    },
+    {
+      "sector": "Logistics",
+      "amount_usd": "44550000",
+      "event_count": 5
+    },
+    {
+      "sector": "Healthtech",
+      "amount_usd": "37390000",
+      "event_count": 3
+    },
+    {
+      "sector": "Agritech",
+      "amount_usd": "25800000",
+      "event_count": 3
+    },
+    {
+      "sector": "Climate",
+      "amount_usd": "13680000",
+      "event_count": 3
+    }
+  ],
+  "grand_total_usd": "399090000",
+  "headline": {
+    "sector": "Fintech",
+    "sectors": [
+      "Fintech"
+    ],
+    "tied": false,
+    "amount_usd": "277670000"
+  },
+  "review_items": [
+    {
+      "review_id": "ledgerleaf_amount",
+      "event_id": "event_0007",
+      "company": "LedgerLeaf",
+      "round": "Seed",
+      "amount_usd": "250000000",
+      "share_of_sector_pct": "90.0349",
+      "reason": "USD 250 million is unusually large for a seed round. The supplied amount is retained and needs confirmation before external presentation."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "without_ledgerleaf",
+      "applicable": true,
+      "excluded_event_count": 1,
+      "excluded_event_ids": [
+        "event_0007"
+      ],
+      "headline": {
+        "sector": "Logistics",
+        "sectors": [
+          "Logistics"
+        ],
+        "tied": false,
+        "amount_usd": "44550000"
+      },
+      "sector_totals": [
+        {
+          "sector": "Logistics",
+          "amount_usd": "44550000",
+          "event_count": 5
+        },
+        {
+          "sector": "Healthtech",
+          "amount_usd": "37390000",
+          "event_count": 3
+        },
+        {
+          "sector": "Fintech",
+          "amount_usd": "27670000",
+          "event_count": 3
+        },
+        {
+          "sector": "Agritech",
+          "amount_usd": "25800000",
+          "event_count": 3
+        },
+        {
+          "sector": "Climate",
+          "amount_usd": "13680000",
+          "event_count": 3
+        }
+      ],
+      "grand_total_usd": "149090000"
+    }
+  ]
+}

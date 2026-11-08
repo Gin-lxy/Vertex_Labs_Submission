@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "offline": true,
+  "tests_passed": 122,
+  "A_saved_outputs": {
+    "outputs": 12,
+    "schema_passes": 12,
+    "exact_passes": 9,
+    "mean_score": 0.9807692307692308
+  },
+  "B_reproduction": "matched all eleven business artifacts",
+  "C_revised_tests_passed": 41,
+  "C_original_comparison": {
+    "passed": 9,
+    "failed": 32
+  },
+  "word_counts": {
+    "A/failure_notes.txt": 124,
+    "A/ai_log.txt": 68,
+    "B/partner_note.txt": 78,
+    "B/ai_log.txt": 64,
+    "C/review.md": 193,
+    "C/revision/ai_log.txt": 64
+  },
+  "privacy_findings": [],
+  "inspected_file_count": 71
+}

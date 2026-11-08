@@ -1,0 +1,62 @@
+[
+  {
+    "case_id": "provided_1",
+    "repeat": 1,
+    "raw_file": "raw_outputs/provided_1_run_1.txt"
+  },
+  {
+    "case_id": "provided_1",
+    "repeat": 2,
+    "raw_file": "raw_outputs/provided_1_run_2.txt"
+  },
+  {
+    "case_id": "provided_1",
+    "repeat": 3,
+    "raw_file": "raw_outputs/provided_1_run_3.txt"
+  },
+  {
+    "case_id": "provided_2",
+    "repeat": 1,
+    "raw_file": "raw_outputs/provided_2_run_1.txt"
+  },
+  {
+    "case_id": "provided_2",
+    "repeat": 2,
+    "raw_file": "raw_outputs/provided_2_run_2.txt"
+  },
+  {
+    "case_id": "provided_2",
+    "repeat": 3,
+    "raw_file": "raw_outputs/provided_2_run_3.txt"
+  },
+  {
+    "case_id": "provided_3",
+    "repeat": 1,
+    "raw_file": "raw_outputs/provided_3_run_1.txt"
+  },
+  {
+    "case_id": "provided_3",
+    "repeat": 2,
+    "raw_file": "raw_outputs/provided_3_run_2.txt"
+  },
+  {
+    "case_id": "provided_3",
+    "repeat": 3,
+    "raw_file": "raw_outputs/provided_3_run_3.txt"
+  },
+  {
+    "case_id": "self_authored",
+    "repeat": 1,
+    "raw_file": "raw_outputs/self_authored_run_1.txt"
+  },
+  {
+    "case_id": "self_authored",
+    "repeat": 2,
+    "raw_file": "raw_outputs/self_authored_run_2.txt"
+  },
+  {
+    "case_id": "self_authored",
+    "repeat": 3,
+    "raw_file": "raw_outputs/self_authored_run_3.txt"
+  }
+]

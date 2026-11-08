@@ -1,0 +1,46 @@
+[
+  {
+    "id": "without_ledgerleaf",
+    "applicable": true,
+    "excluded_event_count": 1,
+    "excluded_event_ids": [
+      "event_0007"
+    ],
+    "headline": {
+      "sector": "Logistics",
+      "sectors": [
+        "Logistics"
+      ],
+      "tied": false,
+      "amount_usd": "44550000"
+    },
+    "sector_totals": [
+      {
+        "sector": "Logistics",
+        "amount_usd": "44550000",
+        "event_count": 5
+      },
+      {
+        "sector": "Healthtech",
+        "amount_usd": "37390000",
+        "event_count": 3
+      },
+      {
+        "sector": "Fintech",
+        "amount_usd": "27670000",
+        "event_count": 3
+      },
+      {
+        "sector": "Agritech",
+        "amount_usd": "25800000",
+        "event_count": 3
+      },
+      {
+        "sector": "Climate",
+        "amount_usd": "13680000",
+        "event_count": 3
+      }
+    ],
+    "grand_total_usd": "149090000"
+  }
+]

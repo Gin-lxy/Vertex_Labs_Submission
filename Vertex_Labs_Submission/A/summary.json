@@ -1,0 +1,57 @@
+{
+  "outputs": 12,
+  "mean_score": 0.9807692307692308,
+  "exact_passes": 9,
+  "schema_passes": 12,
+  "cases": {
+    "provided_1": {
+      "runs": 3,
+      "consistent": true,
+      "all_exact": true,
+      "errors": [
+        [],
+        [],
+        []
+      ]
+    },
+    "provided_2": {
+      "runs": 3,
+      "consistent": true,
+      "all_exact": true,
+      "errors": [
+        [],
+        [],
+        []
+      ]
+    },
+    "provided_3": {
+      "runs": 3,
+      "consistent": true,
+      "all_exact": true,
+      "errors": [
+        [],
+        [],
+        []
+      ]
+    },
+    "self_authored": {
+      "runs": 3,
+      "consistent": false,
+      "all_exact": false,
+      "errors": [
+        [
+          "Field Lantern.sector: expected ['agritech', 'agricultural technology']; got 'Agritech farm management tools'",
+          "Meridian Shield.sector: expected ['cybersecurity', 'cyber security']; got 'Cybersecurity software for managing access to cloud applications'"
+        ],
+        [
+          "Field Lantern.sector: expected ['agritech', 'agricultural technology']; got 'agritech farm management tools'",
+          "Meridian Shield.sector: expected ['cybersecurity', 'cyber security']; got 'cybersecurity software for cloud application access management'"
+        ],
+        [
+          "Field Lantern.sector: expected ['agritech', 'agricultural technology']; got 'agritech farm management tools'",
+          "Meridian Shield.sector: expected ['cybersecurity', 'cyber security']; got 'cybersecurity software for managing access to cloud applications'"
+        ]
+      ]
+    }
+  }
+}

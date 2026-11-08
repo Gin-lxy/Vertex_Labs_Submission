@@ -1,0 +1,23 @@
+source_row,company,event_id,decision,reason
+2,SwiftSend,event_0001,out_of_period,Event reporting date is outside period
+3,Kirana Fleet,event_0002,included,Event reporting date is within period
+4,Kirana Fleet Pte Ltd,event_0002,duplicate_report,Configured merge: kirana_july_2026
+5,MediNest,event_0003,included,Event reporting date is within period
+6,PayLoom,event_0004,included,Event reporting date is within period
+7,PayLoom,event_0004,duplicate_report,"Same normalized company, date, round, amount and currency"
+8,AgroSense,event_0005,included,Event reporting date is within period
+9,WasteWise,event_0006,included,Event reporting date is within period
+10,LedgerLeaf,event_0007,included,Event reporting date is within period
+11,SolarSprout,event_0008,included,Event reporting date is within period
+12,Portline,event_0009,included,Event reporting date is within period
+13,CareGrid,event_0010,included,Event reporting date is within period
+14,RouteNine,event_0011,included,Event reporting date is within period
+15,CropIQ,event_0012,included,Event reporting date is within period
+16,HaulHub,event_0013,included,Event reporting date is within period
+17,VitaLab,event_0014,included,Event reporting date is within period
+18,Kopi Pay,event_0015,included,Event reporting date is within period
+19,SoilSense,event_0016,included,Event reporting date is within period
+20,Dockside,event_0017,included,Event reporting date is within period
+21,GridCool,event_0018,included,Event reporting date is within period
+22,ClearCap,event_0019,included,Event reporting date is within period
+23,Pulsewise,event_0020,out_of_period,Event reporting date is outside period

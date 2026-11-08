@@ -1,0 +1,9 @@
+{
+  "row_partition": true,
+  "every_source_row_assigned_once": true,
+  "event_ids_unique": true,
+  "sector_amounts_reconcile": true,
+  "sector_counts_reconcile": true,
+  "scenario_amounts_reconcile": true,
+  "partner_note_within_150_words": true
+}

@@ -1,0 +1,26 @@
+{
+  "task_id": "funding_by_sector",
+  "period": {"start": "2026-07-01", "end_exclusive": "2026-10-01"},
+  "date_formats": ["%Y-%m-%d", "%d/%m/%Y"],
+  "usd_rates": {"USD": "1", "SGD": "0.77", "INR": "0.012"},
+  "company_aliases": {"Kirana Fleet": "Kirana Fleet", "Kirana Fleet Pte Ltd": "Kirana Fleet", "PayLoom": "PayLoom"},
+  "sector_aliases": {"fintech": "Fintech", "logistics": "Logistics", "healthtech": "Healthtech", "agritech": "Agritech", "climate": "Climate"},
+  "event_merges": [
+    {
+      "id": "kirana_july_2026",
+      "members": [
+        {"company": "Kirana Fleet", "date": "2026-07-03", "round": "Series A", "amount": "12000000", "currency": "USD"},
+        {"company": "Kirana Fleet", "date": "2026-07-04", "round": "Series A", "amount": "12000000", "currency": "USD"}
+      ],
+      "reason": "Same company alias, stage, amount and currency reported one day apart; treated as one round. Earliest report date is used."
+    }
+  ],
+  "review_items": [
+    {
+      "id": "ledgerleaf_amount",
+      "match": {"company": "LedgerLeaf", "date": "2026-08-05", "round": "Seed", "amount": "250000000", "currency": "USD"},
+      "reason": "USD 250 million is unusually large for a seed round. The supplied amount is retained and needs confirmation before external presentation."
+    }
+  ],
+  "scenarios": [{"id": "without_ledgerleaf", "exclude_review_ids": ["ledgerleaf_amount"]}]
+}

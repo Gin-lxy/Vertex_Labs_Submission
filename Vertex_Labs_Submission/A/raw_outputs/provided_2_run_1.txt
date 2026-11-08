@@ -1,0 +1,1 @@
+{"companies":[{"name":"PayLoom","hq_country":"Singapore","sector":"fintech","round":"Unknown","amount_usd":null,"lead_investors":[],"evidence":"Singapore fintech PayLoom announced fresh funding this week from existing backers."}]}

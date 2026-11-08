@@ -1,0 +1,23 @@
+source_row,raw_date,raw_company,raw_sector,raw_round,raw_amount,raw_currency,raw_source,date,company,sector,round,amount,currency,amount_usd
+2,2026-06-28,SwiftSend,Fintech,Series A,15000000,USD,TechWire,2026-06-28,SwiftSend,Fintech,Series A,15000000,USD,15000000
+3,2026-07-03,Kirana Fleet,Logistics,Series A,12000000,USD,TechWire,2026-07-03,Kirana Fleet,Logistics,Series A,12000000,USD,12000000
+4,2026-07-04,Kirana Fleet Pte Ltd,Logistics,Series A,12000000,USD,AsiaDeals,2026-07-04,Kirana Fleet,Logistics,Series A,12000000,USD,12000000
+5,2026-07-09,MediNest,Healthtech,Seed,2000000,USD,AsiaDeals,2026-07-09,MediNest,Healthtech,Seed,2000000,USD,2000000
+6,2026-07-15,PayLoom,Fintech,Series B,18000000,USD,TechWire,2026-07-15,PayLoom,Fintech,Series B,18000000,USD,18000000
+7,2026-07-15,PayLoom,FinTech,Series B,18000000,USD,Press release,2026-07-15,PayLoom,Fintech,Series B,18000000,USD,18000000
+8,2026-07-22,AgroSense,Agritech,Seed,400000000,INR,AsiaDeals,2026-07-22,AgroSense,Agritech,Seed,400000000,INR,4800000
+9,2026-07-30,WasteWise,Climate,Pre-seed,600000,USD,TechWire,2026-07-30,WasteWise,Climate,Pre-seed,600000,USD,600000
+10,2026-08-05,LedgerLeaf,Fintech,Seed,250000000,USD,Press release,2026-08-05,LedgerLeaf,Fintech,Seed,250000000,USD,250000000
+11,2026-08-08,SolarSprout,Climate,Series A,10000000,USD,AsiaDeals,2026-08-08,SolarSprout,Climate,Series A,10000000,USD,10000000
+12,2026-08-12,Portline,Logistics,Series B,25000000,SGD,TechWire,2026-08-12,Portline,Logistics,Series B,25000000,SGD,19250000
+13,2026-08-18,CareGrid,Healthtech,Series B,30000000,USD,TechWire,2026-08-18,CareGrid,Healthtech,Series B,30000000,USD,30000000
+14,2026-08-20,RouteNine,Logistics,Pre-seed,800000,USD,AsiaDeals,2026-08-20,RouteNine,Logistics,Pre-seed,800000,USD,800000
+15,2026-08-30,CropIQ,Agritech,Seed,3000000,USD,TechWire,2026-08-30,CropIQ,Agritech,Seed,3000000,USD,3000000
+16,2026-09-02,HaulHub,Logistics,Seed,3500000,USD,AsiaDeals,2026-09-02,HaulHub,Logistics,Seed,3500000,USD,3500000
+17,2026-09-03,VitaLab,Healthtech,Series A,7000000,SGD,Press release,2026-09-03,VitaLab,Healthtech,Series A,7000000,SGD,5390000
+18,2026-09-10,Kopi Pay,FinTech,Series A,11000000,SGD,AsiaDeals,2026-09-10,Kopi Pay,Fintech,Series A,11000000,SGD,8470000
+19,2026-09-14,SoilSense,Agritech,Series A,1500000000,INR,TechWire,2026-09-14,SoilSense,Agritech,Series A,1500000000,INR,18000000
+20,18/09/2026,Dockside,Logistics,Series A,9000000,USD,TechWire,2026-09-18,Dockside,Logistics,Series A,9000000,USD,9000000
+21,2026-09-21,GridCool,Climate,Seed,4000000,SGD,AsiaDeals,2026-09-21,GridCool,Climate,Seed,4000000,SGD,3080000
+22,2026-09-25,ClearCap,Fintech,Pre-seed,1200000,USD,TechWire,2026-09-25,ClearCap,Fintech,Pre-seed,1200000,USD,1200000
+23,2026-10-02,Pulsewise,Healthtech,Series A,20000000,USD,Press release,2026-10-02,Pulsewise,Healthtech,Series A,20000000,USD,20000000

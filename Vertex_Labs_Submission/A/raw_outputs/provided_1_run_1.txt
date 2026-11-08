@@ -1,0 +1,1 @@
+{"companies":[{"name":"Kirana Fleet","hq_country":"Indonesia","sector":"logistics","round":"Series A","amount_usd":12000000,"lead_investors":["Northbridge Capital"],"evidence":"Jakarta-based logistics startup Kirana Fleet has raised a US$12 million Series A led by Northbridge Capital, with participation from Lumen Ventures."}]}
